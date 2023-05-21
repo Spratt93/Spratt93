@@ -7,7 +7,7 @@ I am a Computer Science student at the University of Southampton.
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Skills
+### About me
 
 - 🔭 I’m currently working on Explainable Machine Learning
 - 🌱 I’m currently learning the Transformer architecture
