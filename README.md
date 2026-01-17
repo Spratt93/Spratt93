@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Embedded Software Engineer at Sepura.
+I'm an embedded software engineer at Sepura.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
